@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Welcome to the world of "Umineko When They Cry" (When Seagulls Cry)
 Welcome to the Rokkenjima of October 4, 1986.
 
@@ -18,3 +19,7 @@ Is the culprit one of the 18, or not?
 Is the culprit a "human", or a "witch"?
 
 Please, enjoy this isolated island, western mansion, mystery-suspense gadget of the good old days to the fullest.
+=======
+"...Umm, in times like this, what did I used to say again? ......Umm, uh, ......g-go for it, yay.
+Mii, nipah~
+>>>>>>> 6b724700a1e97edab482fc357d27142e150d694f
